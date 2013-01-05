@@ -26,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03E5249B1698B6D400F4B1CB /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		03EFC32C1696E6F40031FB35 /* TestSVN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestSVN.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03EFC3301696E6F50031FB35 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		03EFC3321696E6F50031FB35 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -106,6 +107,7 @@
 				03EFC3561696E6F50031FB35 /* ViewController.h */,
 				03EFC3571696E6F50031FB35 /* ViewController.m */,
 				03EFC33B1696E6F50031FB35 /* Supporting Files */,
+				03E5249B1698B6D400F4B1CB /* Header.h */,
 			);
 			path = TestSVN;
 			sourceTree = "<group>";
@@ -320,6 +322,7 @@
 				03EFC35D1696E6F50031FB35 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
